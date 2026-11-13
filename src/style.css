@@ -100,7 +100,7 @@
 .values-row>div:nth-child(2):before{background:#4c7da3}
 .values-row>div:nth-child(3){background:linear-gradient(145deg,#f6f8f3 0%,#edf2e8 100%)}
 .values-row>div:nth-child(3):before{background:#718b65}
-.partner-logo.startup-logo{height:90px;max-width:250px;object-fit:contain;object-position:left center;padding:0}
+.partner-logo.startup-logo{height:90px;max-width:250px;object-fit:contain;object-position:center;padding:8px 16px}
 @media(max-width:800px){.values-row{grid-template-columns:1fr;gap:10px}.values-row>div{min-height:100px;padding-left:60px}}
 @media(max-width:640px){.values-row{margin-top:34px}.values-row>div{min-height:88px}}
 /* About values: open editorial columns, without numbered card boxes */
